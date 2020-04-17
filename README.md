@@ -1,2 +1,3 @@
-# Software-Video-Game-Project
-Final Project for a Software Design Studio class
+# FinalProject
+You will need the addon ofxATK for sound effects.
+The images and sound files for visuals.
